@@ -151,6 +151,7 @@ return [
          * Package Service Providers...
          */
         Spatie\ServerMonitor\ServerMonitorServiceProvider::class,
+        Spatie\Html\HtmlServiceProvider::class,
 
         /*
          * Application Service Providers...
